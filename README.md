@@ -7,6 +7,8 @@
 
 https://sds2jonathan.netlify.app/
 
+Obs: Foi utilizado uma conta free Heroku e após 30 minutos a API entra em modo sleeping então na próxima requisição a mesma pode demorar certa de 30 segundos para responder
+
 ### 🛠 Tecnologias
 
 Algumas das tecnologias que foram usadas na construção do projeto:
